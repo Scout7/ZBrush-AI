@@ -19,6 +19,7 @@ Please access the [releases page](https://github.com/Scout7/ZBrush-AI/releases) 
 
 ```bash
 git clone --recursive https://github.com/Scout7/ZBrush-AI.git
+```
 
 ![image](https://github.com/user-attachments/assets/83516824-5543-40f2-802e-3c3cc9b2772e)
 
