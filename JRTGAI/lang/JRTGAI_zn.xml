@@ -1,0 +1,31 @@
+<buttons>
+	<button path="ZPlugin:JRTGAI">
+		<title text="JRTGAI" trans="匠人天工AI浮雕"/>
+	</button>
+	<button path="ZPlugin:JRTGAI:Logo"><title text="Jump to picture to grayscale" trans="跳转到图片转灰度"/>    <info text="Jump to picture to grayscale" trans="跳转到图片转灰度"/>
+	</button>
+	<button path="Zplugin:JRTGAI:To Picture To Grayscale"><title text="To picture to grayscale" trans="跳转网页一键生成"/></button>
+	<button path="ZPlugin:JRTGAI:Sheet Generation"><title text="Sheet Generation" trans="单张生成"/>    <info text="Sheet Generation" trans="单张生成"/>
+	</button>
+	<button path="Zplugin:JRTGAI:Mixed Multisheet"><title text="Mixed Multisheet" trans="多张混合生成"/></button>
+	<button path="Zplugin:JRTGAI:Adjust Height"><title text="Adjust Height" trans="调整厚度"/></button>
+	<button path="Zplugin:JRTGAI:Close Hole"><title text="Close Hole" trans="封闭背面"/></button>
+	<button path="Zplugin:JRTGAI:Add Coloring"><title text="Add Coloring" trans="添加着色"/></button>
+	<button path="Zplugin:JRTGAI:Color Switch"><title text="Color Switch" trans="着色开关"/></button>
+	<button path="Zplugin:JRTGAI:Texture Switch"><title text="Texture Switch" trans="纹理开关"/></button>
+	<button path="Zplugin:JRTGAI:Transparent texture condition"><title text="Transparent texture condition" trans="透明纹理调节"/></button>
+	<button path="Zplugin:JRTGAI:View Frame"><title text="View Frame" trans="查看线框"/></button>
+	<button path="Zplugin:JRTGAI:Show Shading Only"><title text="Show Shading Only" trans="只显示着色"/></button>
+	<button path="Zplugin:JRTGAI:Show Materials Only"><title text="Show Materials Only" trans="只显示材质"/></button>
+	<button path="Zplugin:JRTGAI:Show Materials Shading"><title text="Show Materials Shading" trans="显示着色 + 材质"/></button>
+	<button path="Zplugin:JRTGAI:Make Block"><title text="Make Block" trans="制作浮块"/></button>
+	<button path="Zplugin:JRTGAI:Add Block Ref"><title text="Add Block Ref" trans="添加对称轴"/></button>
+	<button path="Zplugin:JRTGAI:Front Rear Welding"><title text="Front Rear Welding" trans="前后焊接"/></button>
+	<button path="Zplugin:JRTGAI:Z Space"><title text="Z Space" trans="Z 空间"/></button>
+	<button path="Zplugin:JRTGAI:Block Offset"><title text="Block Offset" trans="侧面深度移除百分比"/></button>
+	<button path="Zplugin:JRTGAI:Smooth Once"><title text="Smooth Once" trans="平滑"/></button>
+	<button path="Zplugin:JRTGAI:Characteristic Polishing"><title text="Characteristic Polishing" trans="按特性抛光"/></button>
+	<button path="Zplugin:JRTGAI:Group Polishing"><title text="Group Polishing" trans="按组抛光"/></button>
+	<button path="Zplugin:JRTGAI:Polished Edge"><title text="Polished Edge" trans="抛光清晰边缘"/></button>
+	<button path="Zplugin:JRTGAI:Smooth Count"><title text="Smooth Count" trans="平滑/抛光次数"/></button>
+</buttons>

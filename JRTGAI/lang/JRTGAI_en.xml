@@ -1,0 +1,31 @@
+<buttons>
+	<button path="ZPlugin:JRTGAI">
+		<title text="JRTGAI" trans="JRTGAI"/>
+	</button>
+	<button path="ZPlugin:JRTGAI:Logo"><title text="Jump to picture to grayscale" trans="Jump to picture to grayscale"/>    <info text="Jump to picture to grayscale" trans="Jump to picture to grayscale"/>
+	</button>
+	<button path="Zplugin:JRTGAI:To Picture To Grayscale"><title text="To picture to grayscale" trans="To picture to grayscale"/></button>
+	<button path="ZPlugin:JRTGAI:Sheet Generation"><title text="Sheet Generation" trans="Sheet Generation"/>    <info text="Sheet Generation" trans="Sheet Generation"/>
+	</button>
+	<button path="Zplugin:JRTGAI:Mixed Multisheet"><title text="Mixed Multisheet" trans="Mixed Multisheet"/></button>
+	<button path="Zplugin:JRTGAI:Adjust Height"><title text="Adjust Height" trans="Adjust Height"/></button>
+	<button path="Zplugin:JRTGAI:Close Hole"><title text="Close Hole" trans="Close Hole"/></button>
+	<button path="Zplugin:JRTGAI:Add Coloring"><title text="Add Coloring" trans="Add Coloring"/></button>
+	<button path="Zplugin:JRTGAI:Color Switch"><title text="Color Switch" trans="Color Switch"/></button>
+	<button path="Zplugin:JRTGAI:Texture Switch"><title text="Texture Switch" trans="Texture Switch"/></button>
+	<button path="Zplugin:JRTGAI:Transparent texture condition"><title text="Transparent texture condition" trans="Transparent texture condition"/></button>
+	<button path="Zplugin:JRTGAI:View Frame"><title text="View Frame" trans="View Frame"/></button>
+	<button path="Zplugin:JRTGAI:Show Shading Only"><title text="Show Shading Only" trans="Show Shading Only"/></button>
+	<button path="Zplugin:JRTGAI:Show Materials Only"><title text="Show Materials Only" trans="Show Materials Only"/></button>
+	<button path="Zplugin:JRTGAI:Show Materials Shading"><title text="Show Materials Shading" trans="Show Materials Shading"/></button>
+	<button path="Zplugin:JRTGAI:Make Block"><title text="Make Block" trans="Make Block"/></button>
+	<button path="Zplugin:JRTGAI:Add Block Ref"><title text="Add Block Ref" trans="Add Block Ref"/></button>
+	<button path="Zplugin:JRTGAI:Front Rear Welding"><title text="Front Rear Welding" trans="Front Rear Welding"/></button>
+	<button path="Zplugin:JRTGAI:Z Space"><title text="Z Space" trans="Z Space"/></button>
+	<button path="Zplugin:JRTGAI:Block Offset"><title text="Block Offset" trans="Block Offset"/></button>
+	<button path="Zplugin:JRTGAI:Smooth Once"><title text="Smooth Once" trans="Smooth Once"/></button>
+	<button path="Zplugin:JRTGAI:Characteristic Polishing"><title text="Characteristic Polishing" trans="Characteristic Polishing"/></button>
+	<button path="Zplugin:JRTGAI:Group Polishing"><title text="Group Polishing" trans="Group Polishing"/></button>
+	<button path="Zplugin:JRTGAI:Polished Edge"><title text="Polished Edge" trans="Polished Edge"/></button>
+	<button path="Zplugin:JRTGAI:Smooth Count"><title text="Smooth Count" trans="Smooth Count"/></button>
+</buttons>
