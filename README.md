@@ -22,7 +22,7 @@ Please access the [releases page](https://github.com/Scout7/ZBrush-AI/releases) 
 ### Installation / 安装步骤
 
 
-git clone --recursive https://github.com/Scout7/ZBrush-AI.git
+[git clone --recursive https://github.com/Scout7/ZBrush-AI.git](url)
 
 ![image](https://github.com/user-attachments/assets/83516824-5543-40f2-802e-3c3cc9b2772e)
 
@@ -48,9 +48,9 @@ git clone --recursive https://github.com/Scout7/ZBrush-AI.git
 
 If you encounter any issues (e.g., plugin doesn't work) or have feature requests, feel free to reach out via GitHub issues. You can also contact us on Twitter.
 
-如遇到插件无法正常使用或有功能请求，请通过GitHub issues与我们联系。也欢迎通过Twitter联系。
+如遇到插件无法正常使用或有功能请求，请通过GitHub issues与我们联系。也欢迎通过QQ联系。
 
-Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+QQ 邮箱: [1281777053@qq.com](https://[1281777053@qq.com)
 
 ## Licenses / 许可证
 
