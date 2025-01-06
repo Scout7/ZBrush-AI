@@ -12,17 +12,13 @@ Please access the [releases page](https://github.com/Scout7/ZBrush-AI/releases) 
 
 ## I want to extend (develop) plugin(s)! / 想要扩展（开发）插件！
 
-### Dependencies / 依赖项
-- [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
-- [libigl](https://libigl.github.io/)
-- [CGAL](https://www.cgal.org/)
 
 其他间接依赖（如boost）会通过包管理系统自动安装。
 
 ### Installation / 安装步骤
 
-
-[git clone --recursive https://github.com/Scout7/ZBrush-AI.git](url)
+```bash
+git clone --recursive https://github.com/Scout7/ZBrush-AI.git
 
 ![image](https://github.com/user-attachments/assets/83516824-5543-40f2-802e-3c3cc9b2772e)
 
